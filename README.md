@@ -1,3 +1,3 @@
 # Demo-repo
-Description on creating a purchase requisition on FSCM
+Only for FSCM
 Add end to end scenarios
